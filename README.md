@@ -113,6 +113,8 @@ if __name__ == "__main__":
 Un **RAG** (Retriever-Augmented Generation) combine la récupération d'informations pertinentes (Retriever) et leur utilisation pour générer des réponses cohérentes (Generator). 
 Cela permet d'enrichir les modèles de génération de texte en utilisant des données externes pour améliorer la qualité des réponses.
 
+![Structure d'un CNN](pfe_images/rag_image.png)
+
 ## Le retriever 
 
 Cette phase est cruciale pour extraire les informations pertinentes et fournir du contexte au LLM.
